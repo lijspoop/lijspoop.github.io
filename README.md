@@ -1,3 +1,3 @@
-# lijspoop.github.io
+# poop
 
-stylus: https://userstyles.world/user/lijspoop
+stylus: <a href="https://userstyles.world/user/lijspoop">https://userstyles.world/user/lijspoop</a>
